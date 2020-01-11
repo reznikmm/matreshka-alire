@@ -1,0 +1,5 @@
+with "matreshka_uaflex.gpr";
+
+project Build_Matreshka_UAFlex is
+   for Source_Dirs use ();
+end Build_Matreshka_UAFlex;
