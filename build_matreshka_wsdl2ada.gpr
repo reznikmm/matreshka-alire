@@ -1,0 +1,5 @@
+with "matreshka_wsdl2ada.gpr";
+
+project Build_Matreshka_WSDL2Ada is
+   for Source_Dirs use ();
+end Build_Matreshka_WSDL2Ada;
