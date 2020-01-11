@@ -1,0 +1,5 @@
+with "matreshka_a2js.gpr";
+
+project Build_Matreshka_A2JS is
+   for Source_Dirs use ();
+end Build_Matreshka_A2JS;
